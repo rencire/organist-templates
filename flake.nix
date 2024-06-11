@@ -13,6 +13,7 @@
     in {
       templates = {
         rust = {
+          inherit welcomeText;
           path = ./rust;
           description = "Organist template for rust development";
         };
