@@ -2,7 +2,7 @@ let inputs = import "./nickel.lock.ncl" in
 let organist = inputs.organist in
 
 {
-  shells = organist.shells.rust,
+  shells = organist.shells.Rust,
 
   shells.build = {
     packages = {},
