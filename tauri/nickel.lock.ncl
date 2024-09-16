@@ -1,3 +1,3 @@
 {
-  organist = import "/nix/store/j40bah9rsnykn17marn50fzffaj2g1gl-source/lib/organist.ncl",
+  organist = import "/nix/store/sirxi6fz9hmnhw8b3kkfni5rrzd0p3gh-source/lib/organist.ncl",
 }
